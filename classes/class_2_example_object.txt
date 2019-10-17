@@ -1,0 +1,12 @@
+Class: Waitress
+
+Attributes: hairColor (string)
+            dateOfBirth (integer)
+            gender (boolean)
+            name (string)
+            age (integer)
+
+Methods: dyeHair: hairColor = "brown" (changes hairColor attribute)
+         getAge: age = 44 (subtract dateOfBirth from current date)
+         getGender: gender = "female" (changes value gender attribute)
+         getName: name = "stacie" (changes value to name attribute)

@@ -1,0 +1,13 @@
+Class: Table
+
+Attributes: legs (string)
+            tableTopWidth (integer)
+            tableTopHeight (float)
+            wooden (boolean)
+            color (string)
+            broken (boolean)
+
+Methods: paint (This changes the color attribute)
+         calculateTableTopArea (This multiplies the tableTopHeight and width together)
+         destroy (This changes the broken attribute)
+         resurfaceTable (changes wooden attribute)
