@@ -1,12 +1,14 @@
 Class: Waitress
 
-Attributes: hairColor (string)
-            dateOfBirth (integer)
-            gender (boolean)
-            name (string)
-            age (integer)
+Attributes: hairColor: "black" (string)
+            female: "yes" (boolean)
+            name "Stacie" (string)
+            age: 44 (integer)
+            nameTag: "yes" (boolean)
+            energyCapacity: 100 (integer)
+            currentEnergy: 75.5 (float)
 
 Methods: dyeHair: hairColor = "brown" (This changes hairColor attribute)
-         getAge: age = 44 (subtract dateOfBirth from current date)
-         getGender: gender = "female" (This changes value gender attribute)
-         getName: name = "stacie" (This changes value to name attribute)
+         changeName: name = "Veronica" (This changes the name attribute)
+         removeNameTag: nameTag = "no" (This changes the nameTag attribute)
+         calculateCurrentEnergyPercentage: 75.5 / 100 = 0.755 (This divides the currentEnergy attribute by the energyCapacity attribute)
