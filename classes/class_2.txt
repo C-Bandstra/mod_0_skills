@@ -4,7 +4,7 @@ Attributes: hairColor (string)
             female (boolean)
             name (string)
             age (integer)
-            nameTa (boolean)
+            nameTag (boolean)
             energyCapacity (integer)
             currentEnergy (float)
 
