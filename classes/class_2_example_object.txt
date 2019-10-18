@@ -2,7 +2,7 @@ Class: Waitress
 
 Attributes: hairColor: "black" (string)
             female: "yes" (boolean)
-            name "Stacie" (string)
+            name: "Stacie" (string)
             age: 44 (integer)
             nameTag: "yes" (boolean)
             energyCapacity: 100 (integer)
