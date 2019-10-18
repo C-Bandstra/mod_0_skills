@@ -3,7 +3,7 @@ Class: Table
 Attributes: legs: 4 (integer)
             tableTopWidth: 12.5 (float)
             tableTopHeight: 10 (integer)
-            wooden: "no" (boolean)
+            wooden: "yes" (boolean)
             color: "black" (string)
             broken: "no" (boolean)
 
